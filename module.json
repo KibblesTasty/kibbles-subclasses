@@ -1,0 +1,33 @@
+{
+"name": "kibbles-subclasses",
+"title": "Kibbles' Subclasses",
+"description": "Kibbles' Collected Subclasses.",
+"author": "KibblesTasty",
+"version": "0.7",
+"minimumCoreVersion": "0.6.0",
+"compatibility": {
+    "minimum": "10.270",
+    "verified": "10.288"
+  },
+"manifest": "https://github.com/KibblesTasty/kibbles-subclasses/releases/download/archive/module.json",
+"download": "https://github.com/KibblesTasty/kibbles-subclasses/releases/download/archive/kibbles-subclasses-main.zip",
+"keywords" : [
+			"feats"
+		],
+"packs": [
+			{
+			"name": "kibbles-subclasses",
+			"label": "Kibbles' Subclasses",
+			"system": "dnd5e",
+			"path": "packs/kibbles-subclasses.db",
+			"entity": "Item",
+			"module": "kibbles-subclasses"
+			}
+		],
+"authors": [
+			{
+			  "name": "KibblesTasty",
+			  "url": "https://kthomebrew.com"
+			}
+		]
+}
